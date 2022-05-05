@@ -3518,7 +3518,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                XeonBotInc.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/12493a57962e154fb6056.jpg' }, caption: `*Hi Bro ${m.pushName}*\n\nBot Group: \n\n♨️Link : https://chat.whatsapp.com/Kb6msWfU8fP25KcG3M4Xtw` }, { quoted: m })
+                XeonBotInc.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/12493a57962e154fb6056.jpg' }, caption: `*Hi Bro ${m.pushName}*\n\nBot Group: \n♨️Link : https://chat.whatsapp.com/Kb6msWfU8fP25KcG3M4Xtw` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
