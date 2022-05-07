@@ -34,7 +34,7 @@ global.myweb = 'https://www.instagram.com/sibssssssss'
 global.packname = '𝐀𝐫𝐜𝐞𝐮𝐬'
 global.author = '𝐀𝐫𝐜𝐭𝐢𝐱 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜.'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🐤','🗿','/',':']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
