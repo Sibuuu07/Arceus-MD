@@ -21,9 +21,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['919337956084','447441412317','358753264940']
-global.premium = ['919337956084','447441412317','358753264940']
-global.ownernomer = '919337956084','447441412317','358753264940'
+global.owner = ['919337956084', '447441412317', '358753264940']
+global.premium = ['919337956084', '447441412317', '358753264940']
+global.ownernomer = '919337956084', '447441412317', '358753264940'
 global.ownername = 'Arctix'
 global.botname = 'Arceus'
 global.footer = '𝐀𝐫𝐜𝐭𝐢𝐱 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜.'
